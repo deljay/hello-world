@@ -1,2 +1,4 @@
 This is here to see how merging will work
+This first-file-edit change goes before the "initial main incarnation" line. Dispite coming later.
 This started as the second line. Its initial main incarnation.
+This is also a first file edit change. The surrounding text should make the merge interface clear.
